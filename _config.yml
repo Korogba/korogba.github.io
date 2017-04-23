@@ -4,8 +4,8 @@ subtitle: Computer Scientist-
 email: kaba1729.ai@gmail.com
 description: Developing intelligent algorithms. Studying the intersection of computational algorithms and biological phenomenon
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-author:
+url: "https://korogba.github.io/" # the base hostname & protocol for your site
+author: @kaba_y
 street_address: Somewhere in Agege
 city: Lagos
 state: TN
