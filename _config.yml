@@ -1,17 +1,17 @@
 # Site settings
 title: Kaba Yusuf
-subtitle: Computer Scientist-
+subtitle: Computer Scientist
 email: kaba1729.ai@gmail.com
-description: Developing intelligent algorithms. Studying the intersection of computational algorithms and biological phenomenon
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://korogba.github.io/" # the base hostname & protocol for your site
-author: @kaba_y
+description: I develop intelligent algorithms. My interests include studying the intersection of computational algorithms and biological phenomena then applying the product of such research to solve complex real-world problems
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author: kaba
 street_address: Somewhere in Agege
 city: Lagos
 state: TN
 zip_code: 100215
 country: Nigeria
-phone: (234) 806 731 405
+phone: (+234) 806 731 405
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
