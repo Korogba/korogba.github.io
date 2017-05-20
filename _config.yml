@@ -29,6 +29,9 @@ pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/kaba_y
 
+# Google services
+google_analytics: UA-99575660-1
+
 # Build settings
 markdown: kramdown
 
