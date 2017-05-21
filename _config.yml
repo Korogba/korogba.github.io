@@ -37,3 +37,7 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+# Site map gem
+gems:
+  - jekyll-sitemap
