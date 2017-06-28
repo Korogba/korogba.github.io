@@ -32,7 +32,7 @@ title: Education
             </div>
             <div class="6u 12u$(small)">
                 <!-- Box -->
-                <h3>B.Sc (2017) Ahmadu Bello University Zaria</h3>
+                <h3>B.Sc (2014) Ahmadu Bello University Zaria</h3>
                 <h4>Grade: First Class</h4>
                 <div class="box">
                     <p align="justify">I was recognized among the best graduating students of 2013/2014 session. My final year project 
